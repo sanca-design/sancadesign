@@ -1,0 +1,59 @@
+body {
+    background: black;
+    color: white;
+}
+
+/*Koppen*/
+h1, h2 {
+    color: yellow;
+    line-height: 1;
+}
+
+/*tekst*/
+p {
+    color: lightskyblue;
+    font: 100;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/*Header*/
+header {
+    background-color: rgb(88, 204, 243);
+    color: black;
+    padding: 32px 32px o 46px;
+}
+
+/*inhoud*/
+.inhoud {
+    font-size: 1.1em;
+    background-color: beige;
+    color: black;
+}
+
+/*tabel*/
+table {
+    #een{background-color: sienna; color: white}
+    #twee{background-color: green}
+    #drie{background-color: yellow; color: black}
+    #vier{background-color: blue}
+    #vijf{background-color: pink; color: yellow}
+    #zes{background-color: purple}
+    #zeven{background-color: limegreen; color: blue}
+    #acht{background-color: lightblue}
+    #negen{background-color: red; color: greenyellow}
+    #tien{background-color: whitesmoke}
+    #elf{background-color: gold; color: dimgray}
+    #twaalf{background-color: brown}
+    #dertien{background-color: navajowhite; color: deeppink}
+    #veertien{background-color: sandybrown}
+    #vijftien{background-color: darkorchid; color: lightgreen}
+    #zestien{background-color: darkgreen}
+}
+
+/*Footer*/
+footer {
+    background-color: rgb(88, 204, 243);
+    color: black;
+    padding: 32px 32px 0 46px;
+}
